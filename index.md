@@ -122,3 +122,72 @@ Network Security
 <b>
 Proficient in both Linux/Unix based operating systems and in WindowsNT operating systems.
 </b>
+<br />
+<br />
+
+
+<b>
+Capstone Project: Security Lab
+</b>
+<br />
+<br />
+I will implement a pen-testing security lab that will run multiple victim PC’s both virtulized and with real hardware. There will be a VLAN possibly multiple VLANS used to quarantine the entire lab and keep the infected machines from interacting with day to day applications. 
+
+Step One.
+
+Research into the hardware & software required to construct such a lab - 10 to 15 hours 
+
+Step Two.
+
+Setup of the Network & Firewalls - 10 hours
+
+–	Purchasing Network hardware, Switches Router and Firewall
+
+–	Configuring VLAN
+
+–	Configuring Firewall
+
+–	Plugging in Ethernet cables and ensuring a reliable connection
+
+Step Three.
+
+Setup of the victim machines - 10 hours
+
+–	Purchasing hardware for the victim testing machines
+
+–	Installing host Operating Systems and other software
+
+–	Connecting configured machines to the VLAN mentioned above
+
+Step Four.
+
+Setup of the attacker machines - 10 hours 
+
+–	Purchasing hardware for the attacker machines
+
+–	Installing host Operating Systems and other software
+
+–	Installing security exploitation software and other cyber-security tools 
+
+–	Connecting configured machines to the aforementioned VLAN
+
+Dates:
+
+March 6th - 10th  Start on Step One 
+
+March 13th - 17th Finish Step One start on Step Two
+
+March 20th - 24th Finish Step Two
+
+March 27th - 31st Start Step Three
+
+April 3rd - 7th Finish Step Three
+
+April 10th - 14th Start Step Four
+
+April 17th - 21st Finish Step Four
+
+
+
+
+
