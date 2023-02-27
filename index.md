@@ -1,6 +1,10 @@
 Nathaniel Zagrabelny's Portfolio
 
-Technology enthusiast and IT support specialist receiving an education in networking and cybersecurity. Working as an IT Help Desk technician at Lake Superior College. It is quite obvious that I still have lots to learn in the IT field, I am gaining knowledge every day and hope to learn as I climb up the IT ladder.
+
+
+
+
+Hello my name is Nathaniel Zagrabelny, I am a Technology enthusiast and IT support specialist receiving an education in networking and cybersecurity. Working as an IT Help Desk technician at Lake Superior College. I'm on my fourth semester at Lake superior College working on my Network Admin and Cybersecurity degree.
 
 <center>
 <img src="img.jpg" alt="me" width="500" height="650">
@@ -36,6 +40,11 @@ Extra Curricular Activities
 
 Home lab:
 
+<center>
+<img src="homelab.jpg" alt="homelab" width="500" height="650">
+</center>
+
+
 -PROXMOX Virtual Machine server
 
 -TrueNAS implementation
@@ -61,3 +70,23 @@ Academic Accomplishments:
 -Deans List Fall 2021
 
 -Deans List Spring 2022 
+
+Prior Coursework includes:
+
+A+ Operating Sys Tech 
+A+ Core Hardware
+Windows Client Admin 
+CISCO Networking I   
+Foundations of CIS 
+Computer User Support
+UNIX System Admin
+CISCO Networking II 
+Windows Server Admin 
+Security Fundamentals 
+Web Server Administration 
+Intrusion Detection  
+Forensics & Incident   
+Network Security
+
+Proficient in both Linux/Unix based operating systems and in WindowsNT operating systems.
+
