@@ -45,7 +45,7 @@ Home lab:
 <br />
 <br />
 <center>
-<img src="homelab.jpg" alt="homelab" width="500" height="650">
+<img src="homelab.jpg" alt="homelab" width="5000" height="650">
 </center>
 
 <br />
